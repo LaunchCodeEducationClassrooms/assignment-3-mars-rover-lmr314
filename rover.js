@@ -1,7 +1,7 @@
 class Rover {
 	constructor(position) {
 		this.position = position;
-		this.mode = 'NORMAL';
+		this.mode = 'NORMAL_POWER';
 		this.generatorWatts = 110;
 	}
 
